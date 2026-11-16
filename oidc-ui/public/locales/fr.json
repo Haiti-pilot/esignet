@@ -300,7 +300,7 @@
   "buttons": {
     "mobile": "Mobile Number",
     "nrc": "NRC ID",
-    "vid": "VID",
+    "vid": "UIN/VID",
     "email": "Email",
     "uin": "UIN"
   },
@@ -308,14 +308,14 @@
     "label": {
       "mobile": "Mobile Number",
       "nrc": "NRC ID",
-      "vid": "VID",
+      "vid": "UIN/VID",
       "email": "Email",
       "uin": "UIN"
     },
     "placeholder": {
       "mobile": "Enter Mobile Number",
       "nrc": "Enter NRC ID",
-      "vid": "Saisir le VID",
+      "vid": "Saisir l'UIN/VID",
       "email": "Saisissez votre adresse e-mail",
       "uin": "Saisissez le UIN"
     }
