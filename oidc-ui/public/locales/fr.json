@@ -302,6 +302,7 @@
     "nrc": "NRC ID",
     "vid": "UIN/VID",
     "email": "Email",
+    "pid": "PID",
     "uin": "UIN"
   },
   "input": {
@@ -310,6 +311,7 @@
       "nrc": "NRC ID",
       "vid": "UIN/VID",
       "email": "Email",
+      "pid": "PID",
       "uin": "UIN"
     },
     "placeholder": {
@@ -317,6 +319,7 @@
       "nrc": "Enter NRC ID",
       "vid": "Saisir l'UIN/VID",
       "email": "Saisissez votre adresse e-mail",
+      "pid": "Saisir le PID",
       "uin": "Saisissez le UIN"
     }
   }
